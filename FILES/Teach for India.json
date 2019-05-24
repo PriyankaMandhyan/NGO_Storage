@@ -1,0 +1,161 @@
+{
+	"name": "Teach for India",
+	"cause": "Child Education",
+	"no_of_volunteers": null,
+	"about": "Teach for India believes that one day all children will attain an excellent education.",
+	"available_roles": [
+		"Fellowship (Paid Teaching Position)",
+		"Teaching Volunteer"
+	],
+	"similar_ngos": [
+		"Make A Difference"
+	],
+	"website": "https://www.teachforindia.org",
+	"social_media": [
+		{
+			"type": "Facebook",
+			"url": "https://www.facebook.com/teachforindia/"
+		},
+		{
+			"type": "Instagram",
+			"url": "https://www.instagram.com/teachforindia/"
+		}
+	],
+	"locations": [
+		{
+			"type": "Head Office",
+			"street_address": "Teach For India, Godrej One, 2nd Floor, Pirojshanagar, Eastern Express Highway, Vikhroli (East)",
+			"city": "Mumbai",
+			"pin": 400079,
+			"state": "Maharashtra",
+			"latitude": 19.0859777,
+			"longitude": 72.803158
+		},
+		{
+			"type": "Registered Office",
+			"street_address": "Teach For India, c/o The Akanksha Foundation, Voltas House ‘C’, T. B. Kadam Marg, Chinchpokli",
+			"city": "Mumbai",
+			"pin": 400033,
+			"state": "Maharashtra",
+			"latitude": 19.0856797,
+			"longitude": 72.8031581
+		},
+		{
+			"type": "Pune Office",
+			"street_address": "Teach For India, Row House #4, Goldfields Enclave, South Main Road, Koregaon Park",
+			"city": "Pune",
+			"pin": 411001,
+			"state": "Maharashtra",
+			"latitude": 18.5329161,
+			"longitude": 73.89828
+		},
+		{
+			"type": "Chennai Office",
+			"street_address": "#16/18, Nainiyappan Street, Jeth Nagar 1st Main Road, Mandeveli",
+			"city": "Chennai",
+			"pin": 600028,
+			"state": "Tamil Nadu",
+			"latitude": 13.0285735,
+			"longitude": 80.2599359
+		},
+		{
+			"type": "Delhi Office",
+			"street_address": "Teach For India, N-23, Second Floor, Green Park Extn.",
+			"city": "New Delhi",
+			"pin": 110016,
+			"state": "Delhi",
+			"latitude": 28.5477376,
+			"longitude": 77.1699794
+		},
+		{
+			"type": "Hyderabad Office",
+			"street_address": "Teach For India, #147, Panchavati Colony, Road No. 10, Banjara Hills",
+			"city": "Hyderabad",
+			"pin": 500034,
+			"state": "Telangana",
+			"latitude": 17.415278,
+			"longitude": 78.4394053
+		},
+		{
+			"type": "Ahmedabad Office",
+			"street_address": "Teach For India, 10 Suvarnagar Bungalows, Nr. St. Xavier Loyola School, Kamnath Mahadev Road,Memnagar",
+			"city": "Ahmedabad",
+			"pin": 380013,
+			"state": "Gujarat",
+			"latitude": 23.0470689,
+			"longitude": 72.5483341
+		},
+		{
+			"type": "Bengaluru Office",
+			"street_address": "Teach For India, Commercial Premises No. 259, 2nd floor, 3rd cross, 1st Main Color 2nd Stage, Domlur, Above Rainbow Play School",
+			"city": "Bengaluru",
+			"pin": 560071,
+			"state": "Karnataka",
+			"latitude": 12.9661928,
+			"longitude": 77.6341977
+		}
+	],
+	"contacts": [
+		{
+			"type": "Mumbai Head Office",
+			"email": null,
+			"numbers": [
+				912225194283,
+				912225194284
+			]
+		},
+		{
+			"type": "Mumbai Registered Office",
+			"email": null,
+			"numbers": [
+				912265182238
+			]
+		},
+		{
+			"type": "Pune Office",
+			"email": null,
+			"numbers": [
+				912064000252,
+				912064001558
+			]
+		},
+		{
+			"type": "Chennai Office",
+			"email": null,
+			"numbers": [
+				914424629210,
+				914424629290
+			]
+		},
+		{
+			"type": "Delhi Office",
+			"email": null,
+			"numbers": [
+				911140543751,
+				911165658666
+			]
+		},
+		{
+			"type": "Hyderabad Office",
+			"email": null,
+			"numbers": [
+				914023395707
+			]
+		},
+		{
+			"type": "Ahmedabad Office",
+			"email": null,
+			"numbers": [
+				917927910445,
+				917965250005
+			]
+		},
+		{
+			"type": "Bengaluru Office",
+			"email": null,
+			"numbers": [
+				9108041320015
+			]
+		}
+	]
+}
