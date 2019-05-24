@@ -1,0 +1,242 @@
+{
+	"name": "Make A Difference",
+	"cause": "Child Education",
+	"no_of_volunteers": 3020,
+	"about": "MAD mobilises young leaders towards ensuring equitable outcomes for children in need of care and protection. Our long term goal is to change how both system and families care for and invest in children, and we target stable middle-class adult outcomes for all the children we work with.",
+	"available_roles": [
+		"Fundraising",
+		"Academic Support Volunteer",
+		"Wingman/Mentor",
+		"PR Volunteer"
+	],
+	"similar_ngos": [
+		"Teach for India"
+	],
+	"website": "https://makeadiff.in/",
+	"social_media": [
+		{
+			"type": "Facebook",
+			"url": "https://www.facebook.com/makeadiff/"
+		},
+		{
+			"type": "Instagram",
+			"url": "https://www.instagram.com/makeadiffindia/"
+		}
+	],
+	"locations": [
+		{
+			"type": "Head Office",
+			"street_address": "16C, 14th C Cross, 1B Main Rd, MCHS Colony, Sector 6, HSR Layout",
+			"city": "Bengaluru",
+			"pin": 560102,
+			"state": "Karnataka",
+			"latitude": 12.915190,
+			"longitude": 77.626850
+		},
+		{
+			"type": "Mumbai Shelter",
+			"street_address": null,
+			"city": "Mumbai",
+			"pin": null,
+			"state": "Maharashtra",
+			"latitude": 19.075983,
+			"longitude": 72.877655
+		},
+		{
+			"type": "Delhi Shelter",
+			"street_address": null,
+			"city": "Delhi",
+			"pin": null,
+			"state": "Delhi",
+			"latitude": 28.704060,
+			"longitude": 77.102493
+		},
+		{
+			"type": "Chandigarh Shelter",
+			"street_address": null,
+			"city": "Chandigarh",
+			"pin": null,
+			"state": "Punjab",
+			"latitude": 30.733315,
+			"longitude": 76.779419
+		},
+		{
+			"type": "Dehradun Shelter",
+			"street_address": null,
+			"city": "Dehradun",
+			"pin": null,
+			"state": "Uttarakhand",
+			"latitude": 30.316496,
+			"longitude": 78.032188
+		},
+		{
+			"type": "Gwalior Shelter",
+			"street_address": null,
+			"city": "Gwalior",
+			"pin": null,
+			"state": "Madhya Pradesh",
+			"latitude": 26.218287,
+			"longitude": 78.182831
+		},
+		{
+			"type": "Lucknow Shelter",
+			"street_address": null,
+			"city": "Lucknow",
+			"pin": null,
+			"state": "Uttar Pradesh",
+			"latitude": 26.846695,
+			"longitude": 80.946167
+		},
+		{
+			"type": "Bhopal Shelter",
+			"street_address": null,
+			"city": "Bhopal",
+			"pin": null,
+			"state": "Madhya Pradesh",
+			"latitude": 23.259933,
+			"longitude": 77.412613
+		},
+		{
+			"type": "Kolkata Shelter",
+			"street_address": null,
+			"city": "Kolkata",
+			"pin": null,
+			"state": "West Bengal",
+			"latitude": 22.572645,
+			"longitude": 88.363892
+		},
+		{
+			"type": "Ahmedabad Shelter",
+			"street_address": null,
+			"city": "Ahmedabad",
+			"pin": null,
+			"state": "Gujarat",
+			"latitude": 23.022505,
+			"longitude": 72.571365
+		},
+		{
+			"type": "Nagpur Shelter",
+			"street_address": null,
+			"city": "Nagpur",
+			"pin": null,
+			"state": "Maharashtra",
+			"latitude": 21.145800,
+			"longitude": 79.088158
+		},
+		{
+			"type": "Pune Shelter",
+			"street_address": null,
+			"city": "Pune",
+			"pin": null,
+			"state": "Maharashtra",
+			"latitude": 18.520430,
+			"longitude": 73.856743
+		},
+		{
+			"type": "Hyderabad Shelter",
+			"street_address": null,
+			"city": "Hyderabad",
+			"pin": null,
+			"state": "Telangana",
+			"latitude": 17.385044,
+			"longitude": 78.486671
+		},
+		{
+			"type": "Guntur Shelter",
+			"street_address": null,
+			"city": "Guntur",
+			"pin": null,
+			"state": "Andhra Pradesh",
+			"latitude": 16.306652,
+			"longitude": 80.436539
+		},
+		{
+			"type": "Vijaywada Shelter",
+			"street_address": null,
+			"city": "Vijaywada",
+			"pin": null,
+			"state": "Andhra Pradesh",
+			"latitude": 17.314260,
+			"longitude": 78.675774
+		},
+		{
+			"type": "Vizag Shelter",
+			"street_address": null,
+			"city": "Vizag",
+			"pin": null,
+			"state": "Andhra Pradesh",
+			"latitude": 17.686815,
+			"longitude": 83.218483
+		},
+		{
+			"type": "Chennai Shelter",
+			"street_address": null,
+			"city": "Chennai",
+			"pin": null,
+			"state": "Tamil Nadu",
+			"latitude": 13.082680,
+			"longitude": 80.270721
+		},
+		{
+			"type": "Vellore Shelter",
+			"street_address": null,
+			"city": "Vellore",
+			"pin": null,
+			"state": "Tamil Nadu",
+			"latitude": 12.916517,
+			"longitude": 79.132500
+		},
+		{
+			"type": "Mangalore Shelter",
+			"street_address": null,
+			"city": "Mangalore",
+			"pin": null,
+			"state": "Karnataka",
+			"latitude": 12.914142,
+			"longitude": 74.855957
+		},
+		{
+			"type": "Mysore Shelter",
+			"street_address": null,
+			"city": "Mysore",
+			"pin": null,
+			"state": "Karnataka",
+			"latitude": 12.295810,
+			"longitude": 76.639381
+		},
+		{
+			"type": "Coimbatore Shelter",
+			"street_address": null,
+			"city": "Coimbatore",
+			"pin": null,
+			"state": "Tamil Nadu",
+			"latitude": 11.016844,
+			"longitude": 76.955833
+		},
+		{
+			"type": "Cochin Shelter",
+			"street_address": null,
+			"city": "Cochin",
+			"pin": null,
+			"state": "Kerela",
+			"latitude": 9.931233,
+			"longitude": 76.267303
+		},
+		{
+			"type": "Trivandrum Shelter",
+			"street_address": null,
+			"city": "Trivandrum",
+			"pin": null,
+			"state": "Kerela",
+			"latitude": 8.524139,
+			"longitude": 76.936638
+		}
+	],
+	"contacts": [
+		{
+			"type": "Global",
+			"email": "contact@makeadiff.in",
+			"numbers": []
+		}
+	]
+}
