@@ -3,11 +3,30 @@
 	"cause": "Child Education",
 	"no_of_volunteers": 3020,
 	"about": "MAD mobilises young leaders towards ensuring equitable outcomes for children in need of care and protection. Our long term goal is to change how both system and families care for and invest in children, and we target stable middle-class adult outcomes for all the children we work with.",
-	"available_roles": [
-		"Fundraising",
-		"Academic Support Volunteer",
-		"Wingman/Mentor",
-		"PR Volunteer"
+	"scope": [
+		"On-Ground"
+	],
+	"compensation": [
+		{
+			"position": "Fundraising",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Academic Support Volunteer",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Wingman/Mentor",
+			"type": "Unpaid"
+		},
+		{
+			"position": "PR Volunteer",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Director",
+			"type": "Paid"
+		}
 	],
 	"similar_ngos": [
 		"Teach for India"
