@@ -3,9 +3,18 @@
 	"cause": "Child Education",
 	"no_of_volunteers": null,
 	"about": "Teach for India believes that one day all children will attain an excellent education.",
-	"available_roles": [
-		"Fellowship (Paid Teaching Position)",
-		"Teaching Volunteer"
+	"scope": [
+		"On-Ground"
+	],
+	"compensation": [
+		{
+			"position": "Fellowship",
+			"type": "Paid"
+		},
+		{
+			"position": "Teaching Volunteer",
+			"type": "Unpaid"
+		}
 	],
 	"similar_ngos": [
 		"Make A Difference"
