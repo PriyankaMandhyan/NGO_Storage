@@ -3,8 +3,12 @@
 	"cause": "Child Education",
 	"no_of_volunteers": null,
 	"about": "Teach for India believes that one day all children will attain an excellent education.",
+	"website": "https://www.teachforindia.org",
 	"scope": [
 		"On-Ground"
+	],
+	"similar_ngos": [
+		"Make A Difference"
 	],
 	"compensation": [
 		{
@@ -16,10 +20,6 @@
 			"type": "Unpaid"
 		}
 	],
-	"similar_ngos": [
-		"Make A Difference"
-	],
-	"website": "https://www.teachforindia.org",
 	"social_media": [
 		{
 			"type": "Facebook",

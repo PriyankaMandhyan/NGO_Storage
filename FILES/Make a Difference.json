@@ -3,8 +3,12 @@
 	"cause": "Child Education",
 	"no_of_volunteers": 3020,
 	"about": "MAD mobilises young leaders towards ensuring equitable outcomes for children in need of care and protection. Our long term goal is to change how both system and families care for and invest in children, and we target stable middle-class adult outcomes for all the children we work with.",
+	"website": "https://makeadiff.in/",
 	"scope": [
 		"On-Ground"
+	],
+	"similar_ngos": [
+		"Teach for India"
 	],
 	"compensation": [
 		{
@@ -28,10 +32,6 @@
 			"type": "Paid"
 		}
 	],
-	"similar_ngos": [
-		"Teach for India"
-	],
-	"website": "https://makeadiff.in/",
 	"social_media": [
 		{
 			"type": "Facebook",
