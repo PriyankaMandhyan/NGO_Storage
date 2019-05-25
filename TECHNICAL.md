@@ -2,6 +2,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Technical Document for Schema.md](#technical-document-for-schemamd)
+  - [Compensation](#compensation)
   - [Social Media](#social-media)
   - [Locations](#locations)
   - [Contacts](#contacts)
@@ -19,12 +20,16 @@
 - website           : String
 - available_roles   : Array (String)
 - scope             : Array (String)
-- compensation      : Array (String)
 - similar_ngos      : Array (String)
+- compensation      : Array ([Compensation](#compensation))
 - social_media      : Array ([Social_Media](#social-media))
 - locations         : Array ([Locations](#locations))
 - contacts          : Array ([Contacts](#contacts))
 
+## Compensation
+
+- position          : String
+- type              : String
 
 ## Social Media
 
