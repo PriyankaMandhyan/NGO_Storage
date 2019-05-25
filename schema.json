@@ -1,0 +1,62 @@
+{
+	"name": "",
+	"cause": "",
+	"no_of_volunteers": 0,
+	"about": "",
+	"website": "https://www.google.com/",
+	"available_roles": [
+		"",
+		""
+	],
+	"scope": [
+		"",
+		""
+	],
+	"compensation": [
+		"",
+		""
+	],
+	"similar_ngos": [
+		""
+	],
+	"social_media": [
+		{
+			"type": "Facebook",
+			"url": "https://www.facebook.com/"
+		},
+		{
+			"type": "Instagram",
+			"url": "https://www.instagram.com/"
+		}
+	],
+	"locations": [
+		{
+			"type": "",
+			"street_address": "",
+			"city": "",
+			"pin": 400000,
+			"state": "",
+			"latitude": 10.000000,
+			"longitude": 10.000000
+		},
+		{
+			"type": "",
+			"street_address": "",
+			"city": "",
+			"pin": 400000,
+			"state": "",
+			"latitude": 10.000000,
+			"longitude": 10.000000
+		}
+	],
+	"contacts": [
+		{
+			"type": "",
+			"email": "",
+			"numbers": [
+				0,
+				0
+			]
+		}
+	]
+}
