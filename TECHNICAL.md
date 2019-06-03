@@ -16,7 +16,9 @@
 - name              : String
 - cause             : String
 - no_of_volunteers  : Integer
+- year_of_origin    : Integer
 - about             : String
+- impact            : String
 - website           : String
 - available_roles   : Array (String)
 - scope             : Array (String)
@@ -29,6 +31,7 @@
 ## Compensation
 
 - position          : String
+- description       : String
 - type              : String
 
 ## Social Media
