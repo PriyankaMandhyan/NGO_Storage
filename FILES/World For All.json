@@ -1,0 +1,70 @@
+{
+	"name": "World For All (WFA)",
+	"cause": "Animal Welfare",
+	"no_of_volunteers": 8,
+	"about": "World For All aims to inspire co-existence between stray animals and the people of Mumbai, by Finding loving homes for the helpless ones and creating compassion, tolerance and humanity for those on the streets. Co-exist.",
+	"impact": [
+		"Issues covered include Animal Homelessness, Overpopulation, Casualties & Indian Perceptions",
+		"7,500 Total Adoptions",
+		"12,000 Total Rescues",
+		"8,500 Animals Neutered",
+		"45,000 Children Educated"
+	],
+	"year_of_origin": 2010,
+	"website": "http://worldforall.co/",
+	"scope": [
+		"On-Ground"
+	],
+	"similar_ngos": [
+		"Animals Matter To Me"
+	],
+	"compensation": [
+		{
+			"position": "Volunteer",
+			"description": "Vet visits, pick up and drop of pets between potential foster and adopter homes",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Foster Parent",
+			"descritption": "Foster a dog or cat temporarily till it finds a permanent home",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Adopter",
+			"descritption": "Adopt a dog or cat",
+			"type": "Unpaid"
+		}
+	],
+	"social_media": [
+		{
+			"type": "Facebook",
+			"url": "https://www.facebook.com/worldforall/"
+		},
+		{
+			"type": "Instagram",
+			"url": "https://www.instagram.com/worldforallanimaladoptions/"
+		}
+	],
+	"locations": [
+		{
+			"type": "Registered Address",
+			"street_address": "C/o World For All, 15A/21 Takshila, Mahakali Caves Road, Andheri East",
+			"city": "Mumbai",
+			"pin": 400093,
+			"state": "Maharashtra",
+			"latitude": 19.1302231,
+			"longitude": 72.8660488
+		}
+	],
+	"contacts": [
+		{
+			"type": "Registered Address",
+			"email": null,
+			"numbers": [
+				9820001506,
+				9820191321,
+				9820496099
+			]
+		}
+	]
+}

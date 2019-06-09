@@ -1,0 +1,89 @@
+{
+	"name": "Akanksha Foundation",
+	"cause": "Child Education",
+	"no_of_volunteers": 700,
+	"about": "Akanksha Foundation aims to deliver high quality education children of all backgrounds through after school programs and helping Government Schools create scalable school models through the School Project.",
+	"impact": [
+		"Impacting over 8,000 students",
+		"H.S.C Pass Percentage in 2017-2018: 94%",
+		"S.S.C Pass Percentage in 2017-2018: 5% Pass Class, 21% Second Class, 73% Distinction or First Class",
+		"90% Student Attendace",
+		"97% Student Retention",
+		"75% Average Teacher Retention",
+		"75% of parents in Akanksha Schools participating in School Management Committees"
+	],
+	"year_of_origin": 1991,
+	"website": "https://www.akanksha.org",
+	"scope": [
+		"On-Ground"
+	],
+	"similar_ngos": [
+		"Teach for India"
+	],
+	"compensation": [
+		{
+			"position": "School Leader",
+			"description": "Oversee initiatives, build a team of skilled teachers, develop a strong academic program, engage with the parents and create a positive culture in the school",
+			"type": "Paid"
+		},
+		{
+			"position": "Teacher",
+			"descritption": "Help children achieve academic achievement and inculcate self-esteem and values",
+			"type": "Paid"
+		},
+		{
+			"position": "Volunteer",
+			"descritption": "Become role models of or friends with the children at Akanksha",
+			"type": "Unpaid"
+		}
+	],
+	"social_media": [
+		{
+			"type": "Facebook",
+			"url": "https://www.facebook.com/the.akanksha.foundation/"
+		},
+		{
+			"type": "Instagram",
+			"url": "https://www.instagram.com/theakankshafoundation/"
+		}
+	],
+	"locations": [
+		{
+			"type": "Mumbai Office",
+			"street_address": "The Akanksha Foundation, Voltas House, Z Block Building, 2nd floor, T B Kadam Marg, Chinchpokli -East",
+			"city": "Mumbai",
+			"pin": 400033,
+			"state": "Maharashtra",
+			"latitude": 18.9863297,
+			"longitude": 72.8337119
+		},
+		{
+			"type": "Pune Office",
+			"street_address": "The Akanksha Foundation, New Thermax Building, Next to Sai Chambers, Old Bombay Pune Highway Road Wakdewadi",
+			"city": "Pune",
+			"pin": 411003,
+			"state": "Maharashtra",
+			"latitude": 18.5386243,
+			"longitude": 73.8478621
+		}
+	],
+	"contacts": [
+		{
+			"type": "Mumbai Office",
+			"email": "reetika.singh@akanksha.org",
+			"numbers": [
+				912223700253,
+				912223729880
+			]
+		},
+		{
+			"type": "Pune Office",
+			"email": "reetika.singh@akanksha.org",
+			"numbers": [
+				912025540008,
+				912025540009,
+				912066051380
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"name": "Animals Matter To Me",
+	"cause": "Animal Welfare",
+	"no_of_volunteers": null,
+	"about": "Animals Matter To Me is a clinical rescue facility for strays & abandoned ownerless animals, birds & reptiles in need of help. It runs a shelter cum hospital in Malad, Mumbai and offers services of Adoption, Animal Shelter, Medical Treatment, Sterilisation & Animal Ambulance.",
+	"impact": [
+		"18,000 Animals Rescued",
+		"9500 Animals Vaccinated, Treated & Released",
+		"7550 Animals Neutered",
+		"843 Animals Adopted"
+	],
+	"year_of_origin": 2010,
+	"website": "https://www.amtmindia.org/",
+	"scope": [
+		"On-Ground"
+	],
+	"similar_ngos": [
+		null
+	],
+	"compensation": [
+		{
+			"position": "Rehab Volunteer",
+			"description": "Socialise with the animals & walk them",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Veterinary Volunteer",
+			"descritption": "Provide medical care to the animals",
+			"type": "Unpaid"
+		}
+	],
+	"social_media": [
+		{
+			"type": "Facebook",
+			"url": "https://www.facebook.com/amtmindia/"
+		},
+		{
+			"type": "Instagram",
+			"url": "https://www.instagram.com/amtmindia/"
+		}
+	],
+	"locations": [
+		{
+			"type": "Main Shelter",
+			"street_address": "Animals Matter To Me, Bungalow 13, 14, 15 Chikoowadi Lane, Malad Marve Road, Malad West",
+			"city": "Mumbai",
+			"pin": 400095,
+			"state": "Maharashtra",
+			"latitude": 19.2215029,
+			"longitude": 72.8368045
+		}
+	],
+	"contacts": [
+		{
+			"type": "Main Shelter",
+			"email": "getinvolved@amtmindia.org",
+			"numbers": [
+				917045627850,
+				919967795660
+			]
+		}
+	]
+}

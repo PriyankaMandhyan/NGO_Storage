@@ -3,6 +3,16 @@
 	"cause": "Child Education",
 	"no_of_volunteers": null,
 	"about": "Teach for India believes that one day all children will attain an excellent education.",
+	"impact": [
+		"Classrooms rated 3/5 on Teach for India's Student Vision Scale(a measure of how classrooms are doing on academic achievement, exposure and access, and values and mindsets)",
+		"Each year, more than 2x growth of Teach for India Classrooms in comparison with non-Teach for India Classrooms in the Longitudinal Study (a comparative study of Teach For India and non-Teach For India classrooms over time, done in collaboration with Columbia University)",
+		"48% Grade Mastery of Math by the end fof the year",
+		"1.1 Year of growth in Reading Level in 2015",
+		"Teach For India students have consistently reached the top ten list of global Design For Change (a global challenge that encourages children to use design thinking to solve a problem they care about) projects",
+		"60% of Teach for India's classrooms have evidence in building students’ awareness of strengths and goals, and exposing them to opportunities through projects and experiences outside the classroom.",
+		"Each year, students participate in the Model UN"
+	],
+	"year_of_origin": 2009,
 	"website": "https://www.teachforindia.org",
 	"scope": [
 		"On-Ground"
@@ -13,10 +23,12 @@
 	"compensation": [
 		{
 			"position": "Fellowship",
+			"description": "Teach and guide students in academics after a rigorous training period",
 			"type": "Paid"
 		},
 		{
 			"position": "Teaching Volunteer",
+			"description": "Volunteer to teach and/or assist the Teach for India fellows",
 			"type": "Unpaid"
 		}
 	],

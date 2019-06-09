@@ -1,0 +1,73 @@
+{
+	"name": "People for Ethical Treatment of Animals India (PETA)",
+	"cause": "Animal Welfare",
+	"no_of_volunteers": null,
+	"about": "PETA operates under the simple principle that animals are not ours to experiment on, eat, wear, use for entertainment, or abuse in any other way. PETA India focuses primarily on the areas in which the greatest numbers of animals suffer the most: in laboratories, in the food industry, in the leather trade, and in the entertainment business.",
+	"impact": [
+		"Current camapaigns include animals used for food, clothing, entertainment & companionship"
+	],
+	"year_of_origin": 2000,
+	"website": "https://www.petaindia.com",
+	"scope": [
+		"On-Ground"
+	],
+	"similar_ngos": [
+		null
+	],
+	"compensation": [
+		{
+			"position": "Intern",
+			"description": "Help make calls to media outlets, compile or update data, do online research, and conduct outreach activities, including demonstrations and tabling events.",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Volunteer",
+			"descritption": "Help make calls to media outlets, compile or update data, do online research, and conduct outreach activities, including demonstrations and tabling events at hours of your choice.",
+			"type": "Unpaid"
+		}
+	],
+	"social_media": [
+		{
+			"type": "Facebook",
+			"url": "https://www.facebook.com/PETAAsiaPacific/"
+		},
+		{
+			"type": "Instagram",
+			"url": "https://www.instagram.com/petaindia/"
+		}
+	],
+	"locations": [
+		{
+			"type": "Mumbai Office",
+			"street_address": "PO Box 28260, Juhu",
+			"city": "Mumbai",
+			"pin": 400049,
+			"state": "Maharashtra",
+			"latitude": 19.1047153,
+			"longitude": 72.8246383
+		},
+		{
+			"type": "Delhi Office",
+			"street_address": "F-110, 1st Floor, Jagdamba Tower, Plot No. 13, Community Centre, Preet Vihar",
+			"city": "New Delhi",
+			"pin": 110092,
+			"state": "Delhi",
+			"latitude": 28.6221573,
+			"longitude": 77.283084
+		}
+	],
+	"contacts": [
+		{
+			"type": "Mumbai Office",
+			"email": null,
+			"numbers": [
+				912240727382
+			]
+		},
+		{
+			"type": "Delhi Office",
+			"email": null,
+			"numbers": []
+		}
+	]
+}
