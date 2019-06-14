@@ -26,12 +26,12 @@
 		},
 		{
 			"position": "Foster Parent",
-			"descritption": "Foster a dog or cat temporarily till it finds a permanent home",
+			"description": "Foster a dog or cat temporarily till it finds a permanent home",
 			"type": "Unpaid"
 		},
 		{
 			"position": "Adopter",
-			"descritption": "Adopt a dog or cat",
+			"description": "Adopt a dog or cat",
 			"type": "Unpaid"
 		}
 	],

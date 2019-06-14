@@ -28,12 +28,12 @@
 		},
 		{
 			"position": "Teacher",
-			"descritption": "Help children achieve academic achievement and inculcate self-esteem and values",
+			"description": "Help children achieve academic achievement and inculcate self-esteem and values",
 			"type": "Paid"
 		},
 		{
 			"position": "Volunteer",
-			"descritption": "Become role models of or friends with the children at Akanksha",
+			"description": "Become role models of or friends with the children at Akanksha",
 			"type": "Unpaid"
 		}
 	],

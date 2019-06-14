@@ -3,7 +3,17 @@
 	"cause": "Child Education",
 	"no_of_volunteers": 3800,
 	"about": "MAD mobilises young leaders towards ensuring equitable outcomes for children in need of care and protection. Our long term goal is to change how both system and families care for and invest in children, and we target stable middle-class adult outcomes for all the children we work with.",
+	"impact": [
+		"3485 Children Impacted Annually",
+		"94% of Children passed 10th against a national average of approxinately 80%",
+		"46% of children passed 10th with 1st Class Honours",
+		"90% of Children passed 12th",
+		"50% of Children passed 12th with 1st Class Honours",
+		"91% of Children were placed in jobs, vocational training or colleges"
+	],
+	"year_of_origin": 2006,
 	"website": "https://makeadiff.in/",
+	"icon": "MAD.png",
 	"scope": [
 		"On-Ground"
 	],
@@ -13,22 +23,27 @@
 	"compensation": [
 		{
 			"position": "Fundraising",
+			"description": "Help the NGO with community fundraising projects",
 			"type": "Unpaid"
 		},
 		{
 			"position": "Academic Support Volunteer",
+			"description": "Help children under the MAD program with academics. Children from grades 5 and beyond are assisted",
 			"type": "Unpaid"
 		},
 		{
 			"position": "Wingman/Mentor",
+			"description": "Help children in 11th & 12th grade with life skills, emotional support and career support",
 			"type": "Unpaid"
 		},
 		{
 			"position": "PR Volunteer",
+			"description": "Create some noise about the work being done inside the NGO and outside it",
 			"type": "Unpaid"
 		},
 		{
 			"position": "Director",
+			"description": "Manage the projects undertaken by the NGO on a national level",
 			"type": "Paid"
 		}
 	],
