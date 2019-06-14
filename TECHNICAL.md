@@ -18,7 +18,7 @@
 - no_of_volunteers  : Integer
 - year_of_origin    : Integer
 - about             : String
-- impact            : String
+- impact            : Array (String)
 - website           : String
 - available_roles   : Array (String)
 - scope             : Array (String)
