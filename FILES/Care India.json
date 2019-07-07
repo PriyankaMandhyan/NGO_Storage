@@ -1,0 +1,261 @@
+{
+	"name": "Care India",
+	"cause": "Social Services",
+	"no_of_volunteers": null,
+	"about": "CARE is a not-for-profit organization working in India for over 65 years, focusing on alleviating poverty and social injustice. It does this through well planned and comprehensive projects in health, education, livelihoods and disaster preparedness and response. Its overall goal is the empowerment of women and girls from poor and marginalised communities leading to improvement in their lives and livelihoods.",
+	"impact": [
+		"112,521+ Children in 2300+ Government Schools in 5 States benefitted through the Education Program ",
+		"28,563+ people reached out through relief and rehabilitation during floods in Assam, Bihar and Uttar Pradesh",
+		"11,526,953+ Women and Girls supported directly through health programs across 7 States",
+		"10,000+ Women are being oriented to shift to modern cooking stoves in Odisha and Chattisgarh"
+	],
+	"year_of_origin": 1946,
+	"website": "https://www.careindia.org",
+	"scope": [
+		"On-Ground"
+	],
+	"similar_ngos": [
+		null
+	],
+	"compensation": [
+		{
+			"position": "Volunteer",
+			"description": "You can volunteer in any of the following areas: Education, Health, Livelihood, Disaster Roaster or Events & Campaigns. You can volunteer for any time between 1 Week to 1 Year.",
+			"type": "Unpaid"
+		}
+	],
+	"social_media": [
+		{
+			"type": "Facebook",
+			"url": "https://www.facebook.com/CAREinIndia"
+		},
+		{
+			"type": "Instagram",
+			"url": "https://www.instagram.com/careorg/"
+		}
+	],
+	"locations": [
+		{
+			"type": "Noida Office",
+			"street_address": "A-12, Bhilwara Towers, Third Floor, Tower II Sector 1",
+			"city": "Noida",
+			"pin": 201301,
+			"state": "Uttar Pradesh",
+			"latitude": 28.5877876,
+			"longitude": 77.3092306
+		},
+		{
+			"type": "Patna Office",
+			"street_address": "H. No.14 Patliputra Colony",
+			"city": "Patna",
+			"pin": 800013,
+			"state": "Bihar",
+			"latitude": 25.627512,
+			"longitude": 85.1112536
+		},
+		{
+			"type": "Bharuch Office",
+			"street_address": "16, Elora Park, Ist Floor, Near S.T. Bus Stand, Jambusar",
+			"city": "Bharuch",
+			"pin": 392150,
+			"state": "Gujarat",
+			"latitude": 22.1801286,
+			"longitude": 72.8332644
+		},
+		{
+			"type": "Palwal Office",
+			"street_address": "Bharat Colony, Mathura Road, Opp. Indian Oil Petrol Pump",
+			"city": "Palwal",
+			"pin": 121102,
+			"state": "Haryana",
+			"latitude": 28.3213878,
+			"longitude": 77.3081402
+		},
+		{
+			"type": "Bengaluru Office",
+			"street_address": "1st floor, No-827, 10th ‘A’ Main, Indira Nagar 2nd Stage",
+			"city": "Bengaluru",
+			"pin": 560038,
+			"state": "Karnataka",
+			"latitude": 12.9774262,
+			"longitude": 77.637118
+		},
+		{
+			"type": "Cochin Office",
+			"street_address": "CC No. (40/9266) 3rd Floor, Mayur Business Centre Pullepady Junction, Chittoor Road",
+			"city": "Cochin",
+			"pin": 682035,
+			"state": "Kerela",
+			"latitude": 9.9806093,
+			"longitude": 76.2823308
+		},
+		{
+			"type": "Indore Office",
+			"street_address": "FH-321, Scheme N. 54, Vijay Nagar",
+			"city": "Indore",
+			"pin": 452010,
+			"state": "Madhya Pradesh",
+			"latitude": 22.7554217,
+			"longitude": 75.8840649
+		},
+		{
+			"type": "Mumbai Office",
+			"street_address": "Office No. 410-411 Dimple Arcade, Opposite V Mall, Thakur Complex, Kandivili East",
+			"city": "Mumbai",
+			"pin": 400101,
+			"state": "Maharashtra",
+			"latitude": 19.2098726,
+			"longitude": 72.8628871
+		},
+		{
+			"type": "Pune Office",
+			"street_address": "Office No.331, D Wing 3rd Floor, Clover Centre MG Road Camp",
+			"city": "Pune",
+			"pin": 411001,
+			"state": "Maharashtra",
+			"latitude": 18.5183585,
+			"longitude": 73.8758361
+		},
+		{
+			"type": "Bhilwara Office",
+			"street_address": "B-371, RK Colony, Near Water Tank",
+			"city": "Bhilwara",
+			"pin": 311001,
+			"state": "Rajasthan",
+			"latitude": 25.3573965,
+			"longitude": 74.6314076
+		},
+		{
+			"type": "Chittorgarh Office",
+			"street_address": "1-B-43, Segwa Housing Board, Opposite Pump House, Segwa Main Road",
+			"city": "Chittorgarh",
+			"pin": 312001,
+			"state": "Rajasthan",
+			"latitude": 24.7953391,
+			"longitude": 74.3823777
+		},
+		{
+			"type": "Bhubaneshwar Office",
+			"street_address": "372, Shahid Nagar",
+			"city": "Bhubaneshwar",
+			"pin": 751007,
+			"state": "Odisha",
+			"latitude": 20.2889554,
+			"longitude": 85.8417874
+		},
+		{
+			"type": "Cuddalore Office",
+			"street_address": "No. 20, Muslim street, Udaiyargudi, Kattumannarkoil",
+			"city": "Cuddalore",
+			"pin": 608301,
+			"state": "Tamil Nadu",
+			"latitude": 11.278869,
+			"longitude": 79.5484276
+		},
+		{
+			"type": "Secundarabad Office",
+			"street_address": "H. No. 6-3-862/1, Flat No. 105 My Home Laxmi Niwas Greenland’s road Amarpreet",
+			"city": "Secundarabad",
+			"pin": 500016,
+			"state": "Telangana",
+			"latitude": 17.5370297,
+			"longitude": 78.4312737
+		},
+		{
+			"type": "Lucknow Office",
+			"street_address": "12/648, Sector 12, Indira Nagar",
+			"city": "Lucknow",
+			"pin": 226016,
+			"state": "Uttar Pradesh",
+			"latitude": 26.882506,
+			"longitude": 80.9967743
+		}
+	],
+	"contacts": [
+		{
+			"type": "Noida Office",
+			"email": "contactus@careindia.org",
+			"numbers": [
+				911204048250
+			]
+		},
+		{
+			"type": "Patna Office",
+			"email": null,
+			"numbers": [
+				916122274957,
+				916122274389
+			]
+		},
+		{
+			"type": "Cochin Office",
+			"email": null,
+			"numbers": [
+				914844032320
+			]
+		},
+		{
+			"type": "Indore Office",
+			"email": null,
+			"numbers": [
+				917554257228
+			]
+		},
+		{
+			"type": "Mumbai Office",
+			"email": null,
+			"numbers": [
+				912242951018
+			]
+		},
+		{
+			"type": "Pune Office",
+			"email": null,
+			"numbers": [
+				912041233740
+			]
+		},
+		{
+			"type": "Bhilwara Office",
+			"email": null,
+			"numbers": [
+				917357385154
+			]
+		},
+		{
+			"type": "Chittorgarh Office",
+			"email": null,
+			"numbers": [
+				919414617178
+			]
+		},
+		{
+			"type": "Bhubaneshwar Office",
+			"email": null,
+			"numbers": [
+				916742547446
+			]
+		},
+		{
+			"type": "Cuddalore Office",
+			"email": null,
+			"numbers": [
+				914144262353
+			]
+		},
+		{
+			"type": "Secundarabad Office",
+			"email": null,
+			"numbers": [
+				914027764977
+			]
+		},
+		{
+			"type": "Lucknow Office",
+			"email": null,
+			"numbers": [
+				915224301003
+			]
+		}
+	]
+}
