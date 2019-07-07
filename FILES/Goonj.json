@@ -1,0 +1,85 @@
+{
+	"name": "Goonj",
+	"cause": "Environment",
+	"no_of_volunteers": null,
+	"about": "Goonj envisions to grow as an idea across regions, economies and countries using urban discard as a tool to alleviate poverty and enhance the dignity of the poor in the world. Address basic but neglected issues of the poor by involving them in evolving their own solutions with dignity and urban material as reward.",
+	"impact": [
+		null
+	],
+	"year_of_origin": null,
+	"website": "https://goonj.org",
+	"scope": [
+		"On-Ground"
+	],
+	"similar_ngos": [
+		null
+	],
+	"compensation": [
+		{
+			"position": "Volunteer with Your Network",
+			"description": "Beyond money and material, spread the word around in your own network of friends, family and colleagues to get more people to take some positive action. It could be about sponsoring Goonj Kits, Payroll Giving with a corporate, spreading the word about Goonj Ki Gullak, connecting to wholesalers and retail chains for unsold material/dead inventory or connecting with transporters for pro bono/ subsidized services.",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Volunteer by Going Green",
+			"description": "Green by Goonj is our range of up-cycled products made from last shreds of cloth. You can promote these products for conferences, workshops, camps, etc. or connect us to organizations that promote sustainable lifestyle products or organize stalls in various corporate, schools, colleges, exhibitions etc.",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Volunteer in 100 Stories of Change Book",
+			"description": "‘100 Stories of Change Vol I’ is a collection of first 25 stories of change By Goonj. You can organize book reading sessions in colleges, universities, societies.",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Volunteer in School to School Initiative",
+			"description": "Goonj’s ‘School to School’ initiative engages with urban schools, kids, teachers & parents. You can reach out to schools to organize sessions, stalls, exposure visits and collection drives for Goonj. Short supply of School material is a constant challenge at Goonj. Pitch in by organizing school material specific collection drives or connect us to stationery manufacturers.",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Volunteer in Raising Your Hand for Women’s Dignity and Menstruation",
+			"description": "If you are passionate about breaking the culture of shame and silence around menstruation, get involved in this work.",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Volunteer in Organizing Awareness & Collection Capms",
+			"description": "In April and October, wherever you are, you can organize a collection camp for Goonj, in your city and drop collected material to the nearest Goonj office.",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Volunteer by Contributing Books",
+			"description": "A lot of people contribute their books to Goonj.. The one’s relevant for rural India are reached out to rural libraries, schools etc. while others are reached out at reasonable prices to urban masses through stalls at book fairs, college fests, PTAs in schools, etc.",
+			"type": "Unpaid"
+		}
+	],
+	"social_media": [
+		{
+			"type": "Facebook",
+			"url": "https://www.facebook.com/goonj.org"
+		},
+		{
+			"type": "Instagram",
+			"url": "https://www.instagram.com/goonj/"
+		}
+	],
+	"locations": [
+		{
+			"type": "Delhi Office",
+			"street_address": " J-93, Sarita Vihar",
+			"city": "New Delhi",
+			"pin": 110076,
+			"state": "Delhi",
+			"latitude": 28.5351152,
+			"longitude": 77.2958136
+		}
+	],
+	"contacts": [
+		{
+			"type": "Delhi Office",
+			"email": "mail@goonj.org",
+			"numbers": [
+				911126972351,
+				911141401216
+			]
+		}
+	]
+}
