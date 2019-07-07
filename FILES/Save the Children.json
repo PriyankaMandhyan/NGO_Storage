@@ -1,0 +1,288 @@
+{
+	"name": "Save the Children",
+	"cause": "Social Services",
+	"no_of_volunteers": null,
+	"about": "Save the Children is a global non-profit organisation which was founded in the year 1919. Today, it is India's leading independent child rights NGO. As of December 2018, it works in 19 states of India.",
+	"impact": [
+		"Changed the lives of more than 10.1 million (1.1 crore) children till date.",
+		"In the year 2018, it reached 12.03 lakh children"
+	],
+	"year_of_origin": 2008,
+	"website": "https://www.savethechildren.in",
+	"scope": [
+		"On-Ground"
+	],
+	"similar_ngos": [
+		"Child Rights and You (CRY)"
+	],
+	"compensation": [
+		{
+			"position": "Volunteer",
+			"description": "You can volunteer in any of the following areas: education, health & nutrition and child protection, provided you are a professional in the same",
+			"type": "Unpaid"
+		}
+	],
+	"social_media": [
+		{
+			"type": "Facebook",
+			"url": "https://www.facebook.com/india.savethechildren/"
+		},
+		{
+			"type": "Instagram",
+			"url": "https://www.instagram.com/savethechildren_india/"
+		}
+	],
+	"locations": [
+		{
+			"type": "Gurgaon Office",
+			"street_address": "Save the Children, Bal Raksha Bharat, 1st & 2nd Floor, Plot No. 91, Sector - 44",
+			"city": "Gurgaon",
+			"pin": 122003,
+			"state": "Haryana",
+			"latitude": 28.4516546,
+			"longitude": 77.0692825
+		},
+		{
+			"type": "Chennai Office",
+			"street_address": "Save the Children, Old no 375 new no 876, Anna Salai 1st floor, Above Canara Bank, Saidapet",
+			"city": "Chennai",
+			"pin": 600015,
+			"state": "Tamil Nadu",
+			"latitude": 13.0737718,
+			"longitude": 80.2737503
+		},
+		{
+			"type": "Secundarabad Office",
+			"street_address": "Telangana State Programme Office, H. No.: 52, 1st Floor, Sarvasukhi Colony, Next to Indian Overseas Bank lane, West Maredpally",
+			"city": "Secundarabad",
+			"pin": 500026,
+			"state": "Telangana",
+			"latitude": 17.4462963,
+			"longitude": 78.499265
+		},
+		{
+			"type": "Patna Office",
+			"street_address": "Save the Children Bihar State, Programme Office, 1st Floor, 224 E, Road no. 2A, Patliputra Colony",
+			"city": "Patna",
+			"pin": 800013,
+			"state": "Bihar",
+			"latitude": 25.6279472,
+			"longitude": 85.1019307
+		},
+		{
+			"type": "Srinagar Office",
+			"street_address": "Save the Children J&K State Programme Office, House No.57, Rawalpora Housing Colony, Sanat Nagar",
+			"city": "Srinagar",
+			"pin": 190005,
+			"state": "Jammu & Kashmir",
+			"latitude": 34.0311304,
+			"longitude": 74.7988921
+		},
+		{
+			"type": "Pune Office",
+			"street_address": "Save the Children Maharashtra State Programme Office, Office No. 201/202/203, Second Floor, “A” Wing, Parmar Chember, Sadhu Vaswani Chowk, Near Pune Railway Station",
+			"city": "Pune",
+			"pin": 411001,
+			"state": "Maharashtra",
+			"latitude": 18.5266854,
+			"longitude": 73.8730354
+		},
+		{
+			"type": "Mumbai Office",
+			"street_address": "8, Mamta House, 2nd Floor, 183 Waterfield Road, Bandra West",
+			"city": "Mumbai",
+			"pin": 400050,
+			"state": "Maharashtra",
+			"latitude": 18.7937128,
+			"longitude": 73.075313
+		},
+		{
+			"type": "Jaipur Office",
+			"street_address": "Rajasthan State Programme Office 42, Vrindavan Vihar, King's Road, Near Shyam Nagar Police Station",
+			"city": "Jaipur",
+			"pin": 30202,
+			"state": "Rajasthan",
+			"latitude": 26.8901225,
+			"longitude": 75.7489269
+		},
+		{
+			"type": "Dungarpur Office",
+			"street_address": "Save the Children, Plot No. 111, Near Nayi Pani ki Tanki, Pratap Nagar Colony, Hospital Road",
+			"city": "Dungarpur",
+			"pin": 314001,
+			"state": "Rajasthan",
+			"latitude": 25.3897892,
+			"longitude": 72.5082542
+		},
+		{
+			"type": "Kolkata Office",
+			"street_address": "Save the Children West Bengal State Programme Office, 41 B/5, Gariahat Roadk",
+			"city": "Kolkata",
+			"pin": 700031,
+			"state": "West Bengal",
+			"latitude": 22.5034433,
+			"longitude": 88.3662718
+		},
+		{
+			"type": "Bhubaneshawar Office",
+			"street_address": "Save the Children, Odisha State Programme Office, S-4, Phase -II, Maitree Vihar",
+			"city": "Bhubaneshwar",
+			"pin": 751023,
+			"state": "Odisha",
+			"latitude": 24.7953391,
+			"longitude": 74.3823777
+		},
+		{
+			"type": "Ranchi Office",
+			"street_address": "Save the Children Jharkhand State Programme, Plot No. 364/A, Road No. 4B, Ashok Nagar",
+			"city": "Ranchi",
+			"pin": 834002,
+			"state": "Jharkhand",
+			"latitude": 23.3475149,
+			"longitude": 85.3000014
+		},
+		{
+			"type": "Lucknow Office",
+			"street_address": "Save the Children UP State Programme Office, 2/328, Vikas Khand, Gomtinagar",
+			"city": "Lucknow",
+			"pin": 226001,
+			"state": "Uttar Pradesh",
+			"latitude": 11.278869,
+			"longitude": 79.5484276
+		},
+		{
+			"type": "Secundarabad Office",
+			"street_address": "H. No. 6-3-862/1, Flat No. 105 My Home Laxmi Niwas Greenland’s road Amarpreet",
+			"city": "Secundarabad",
+			"pin": 500016,
+			"state": "Telangana",
+			"latitude": 17.5370297,
+			"longitude": 78.4312737
+		},
+		{
+			"type": "Lucknow Office",
+			"street_address": "12/648, Sector 12, Indira Nagar",
+			"city": "Lucknow",
+			"pin": 226016,
+			"state": "Uttar Pradesh",
+			"latitude": 26.8585132,
+			"longitude": 80.9973746
+		},
+		{
+			"type": "Guwahati Office",
+			"street_address": "Assam State Programme Office, 22 Seujee Path, Wireless Surey, Beltola",
+			"city": "Guwahati",
+			"pin": 781006,
+			"state": "Assam",
+			"latitude": 26.1329636,
+			"longitude": 91.8126274
+		},
+		{
+			"type": "Delhi Office",
+			"street_address": "Delhi State Program Office, D-61, 2nd Floor, East of Kailash, Near Sapna Cinema",
+			"city": "New Delhi",
+			"pin": 110065,
+			"state": "Delhi",
+			"latitude": 28.559303,
+			"longitude": 77.2442839
+		}
+	],
+	"contacts": [
+		{
+			"type": "Gurgaon Office",
+			"email": "donorsupport@savethechildren.in",
+			"numbers": [
+				911244752000,
+				911244752100
+			]
+		},
+		{
+			"type": "Chennai Office",
+			"email": null,
+			"numbers": [
+				914449531234,
+				914449531207
+			]
+		},
+		{
+			"type": "Patna Office",
+			"email": null,
+			"numbers": [
+				916122270505
+			]
+		},
+		{
+			"type": "Srinagar Office",
+			"email": null,
+			"numbers": [
+				911949419177761
+			]
+		},
+		{
+			"type": "Pune Office",
+			"email": null,
+			"numbers": [
+				912026126600
+			]
+		},
+		{
+			"type": "Mumbai Office",
+			"email": null,
+			"numbers": [
+				912267254802
+			]
+		},
+		{
+			"type": "Jaipur Office",
+			"email": null,
+			"numbers": [
+				911414035881,
+				911413220881
+			]
+		},
+		{
+			"type": "Kolkata Office",
+			"email": null,
+			"numbers": [
+				913324994038,
+				913324994044
+			]
+		},
+		{
+			"type": "Bhubaneshwar Office",
+			"email": null,
+			"numbers": [
+				916742301240
+			]
+		},
+		{
+			"type": "Ranchi Office",
+			"email": null,
+			"numbers": [
+				916512244126,
+				916512242416
+			]
+		},
+		{
+			"type": "Lucknow Office",
+			"email": null,
+			"numbers": [
+				915224049913
+			]
+		},
+		{
+			"type": "Guwahati Office",
+			"email": null,
+			"numbers": [
+				913612228771
+			]
+		},
+		{
+			"type": "Delhi Office",
+			"email": null,
+			"numbers": [
+				911140538141
+			]
+		}
+	]
+}
