@@ -1,0 +1,67 @@
+{
+	"name": "Center for Social Security Action & Research (CSSAR)",
+	"cause": "Child Education",
+	"no_of_volunteers": null,
+	"about": "Center for Social Security Action & Research is a Delhi based NGO. They teach underprivileged children by conducting remedial classes",
+	"impact": [
+		"They have educated 4550 children."
+	],
+	"year_of_origin": 2008,
+	"website": "http://www.cssar.org",
+	"scope": [
+		"On-Ground"
+	],
+	"similar_ngos": [
+		"Make A Difference",
+		"Teach For India",
+		"Akanksha Foundation"
+	],
+	"compensation": [
+		{
+			"position": "Teaching Volunteer",
+			"description": "Teach Classes 1-10 Spoken English, life skills, music or dance.",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Marketing Volunteer",
+			"description": "Help CSSAR market and raise funds.",
+			"type": "Unpaid"
+		},
+		{
+			"position": "Admin Volunteer",
+			"description": "Document, Monitor and Evaluate Education Programs.",
+			"type": "Unpaid"
+		}
+	],
+	"social_media": [
+		{
+			"type": "Facebook",
+			"url": "https://www.facebook.com/cssar1/"
+		},
+		{
+			"type": "Instagram",
+			"url": null
+		}
+	],
+	"locations": [
+		{
+			"type": "Delhi Office",
+			"street_address": "429, 3rd Floor, Rajendra Arihant Tower, B-1, Community Centre, Janakpuri",
+			"city": "New Delhi",
+			"pin": 110058,
+			"state": "Delhi",
+			"latitude": 28.629752,
+			"longitude": 77.090374
+		}
+	],
+	"contacts": [
+		{
+			"type": "Delhi Office",
+			"email": "ceo@cssar.org",
+			"numbers": [
+				919874355580,
+				919968246139
+			]
+		}
+	]
+}
